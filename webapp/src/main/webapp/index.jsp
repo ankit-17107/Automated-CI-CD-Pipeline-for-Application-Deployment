@@ -29,6 +29,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1 style="text-align: center; color: #4CAF50;">Thank you, Happy Learning! Keep Going!</h1>
+  <h1 style="text-align: center; color: #4CAF50;">Thank you, Happy Learning! Keep Going!!</h1>
 </form>
 
